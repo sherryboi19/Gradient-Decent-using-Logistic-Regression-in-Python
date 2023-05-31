@@ -1,0 +1,5 @@
+Train a logistic regression model for the attached dataset. You have to submit two files one for Sklearn and one for using the gradient decent and cost function without using sSklearn.
+
+Split your data into 70% training and 30% testing and check your accuracy. 
+
+Then add polynomial features of degree 2 and then again train your model and check whether the accuracy increased or decreased.
